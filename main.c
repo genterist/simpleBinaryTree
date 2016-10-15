@@ -7,7 +7,6 @@
  Copyright   : (CC)
  Summary	 : all functions related to a successfully built BSTree
  Functions	 :
- Origins	 : UMSL COMPSCI 4280
  ============================================================================
  */
 

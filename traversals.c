@@ -8,7 +8,6 @@
  Summary	 : data type declarations and all (i/o) methods required
  	 	 	 	 to successfully build and display a Binary Search Tree
  Functions	 :
- Origins	 : UMSL COMPSCI 4280
  ============================================================================
  */
 
